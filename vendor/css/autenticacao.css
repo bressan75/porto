@@ -1,0 +1,8 @@
+/* mostrar senha input */
+.left-inner-addon {position: relative}
+.left-inner-addon i {position: absolute;z-index:1000;color: #666;right: 15px;top: 12px;cursor: pointer}
+.left-inner-addon input.form-control {padding-right: 40px}
+
+/* gradiente do logotipo do login */
+.bg-gradient-primary-login {
+  background-image: linear-gradient(195deg, #173553 0%, #4896e3 100%); }
